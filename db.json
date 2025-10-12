@@ -1,0 +1,149 @@
+{
+  "playlists": [
+  {
+    "name": "JoJo's Bizarre Adventure",
+    "songs": [
+      {
+        "id": "1",
+        "name": "Fighting Gold",
+        "artist": "xxxxx",
+        "cover": "./imgs/ouro.png",
+        "song": "/musicas/FightingGold.mp3",
+        "genre": "J-Rock"
+      },
+      {
+        "id": "2",
+        "name": "Pillar Men Theme",
+        "artist": "xxxxx",
+        "cover": "./imgs/pillar.png",
+        "song": "/musicas/Pillar.mp3",
+        "genre": "Electronic"
+      }
+    ]
+  },
+  {
+    "name": "Trilhas Sonoras Épicas",
+    "songs": [
+      {
+        "id": "3",
+        "name": "Awaken",
+        "artist": "xxxxx",
+        "cover": "./imgs/pillar.png",
+        "song": "/musicas/Pillar.mp3",
+        "genre": "Orchestral"
+      },
+      {
+        "id": "4",
+        "name": "It's Going Down Now",
+        "artist": "xxxxx",
+        "cover": "./imgs/pistola.png",
+        "song": "/musicas/P3R.mp3",
+        "genre": "J-Rock"
+      },
+      {
+        "id": "5",
+        "name": "Golden Wind",
+        "artist": "xxxxx",
+        "cover": "./imgs/ouro.png",
+        "song": "/musicas/FightingGold.mp3",
+        "genre": "J-Pop"
+      }
+    ]
+  },
+  {
+    "name": "Sons da Natureza",
+    "songs": [
+      {
+        "id": "6",
+        "name": "Whispers of the Forest",
+        "artist": "xxxxx",
+        "cover": "./imgs/tartaruga.png",
+        "song": "/musicas/Forest.mp3",
+        "genre": "Ambient"
+      },
+      {
+        "id": "7",
+        "name": "Reflection by the Lake",
+        "artist": "xxxxx",
+        "cover": "./imgs/pinguim.png",
+        "song": "/musicas/Lake.mp3",
+        "genre": "Acoustic"
+      }
+    ]
+  },
+  {
+    "name": "Mix Intenso",
+    "songs": [
+      {
+        "id": "8",
+        "name": "Fighting Gold",
+        "artist": "xxxxx",
+        "cover": "./imgs/ouro.png",
+        "song": "/musicas/FightingGold.mp3",
+        "genre": "J-Rock"
+      },
+      {
+        "id": "9",
+        "name": "It's Going Down Now",
+        "artist": "xxxxx",
+        "cover": "./imgs/pistola.png",
+        "song": "/musicas/P3R.mp3",
+        "genre": "J-Rock"
+      },
+      {
+        "id": "10",
+        "name": "Pillar Men Theme",
+        "artist": "xxxxx",
+        "cover": "./imgs/pillar.png",
+        "song": "/musicas/Pillar.mp3",
+        "genre": "Electronic"
+      }
+    ]
+  },
+  {
+    "name": "Playlist Aleatória",
+    "songs": [
+      {
+        "id": "11",
+        "name": "Calm Waters",
+        "artist": "xxxxx",
+        "cover": "./imgs/pinguim.png",
+        "song": "/musicas/Lake.mp3",
+        "genre": "New Age"
+      },
+      {
+        "id": "12",
+        "name": "It's Going Down Now",
+        "artist": "xxxxx",
+        "cover": "./imgs/pistola.png",
+        "song": "/musicas/P3R.mp3",
+        "genre": "Acid Jazz"
+      },
+      {
+        "id": "13",
+        "name": "Awaken (Remix)",
+        "artist": "xxxxx",
+        "cover": "./imgs/pillar.png",
+        "song": "/musicas/Pillar.mp3",
+        "genre": "Trap"
+      },
+      {
+        "id": "14",
+        "name": "Forest Ambience",
+        "artist": "xxxxx",
+        "cover": "./imgs/tartaruga.png",
+        "song": "/musicas/Forest.mp3",
+        "genre": "Ambient"
+      },
+      {
+        "id": "15",
+        "name": "Fighting Gold",
+        "artist": "xxxxx",
+        "cover": "./imgs/ouro.png",
+        "song": "/musicas/FightingGold.mp3",
+        "genre": "J-Rock"
+      }
+    ]
+  }
+]
+}
