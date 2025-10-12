@@ -1,26 +1,26 @@
 {
   "playlists": [
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Sons da Natureza",
     "songs": [
       {
-        "id": "1",
-        "name": "Fighting Gold",
+        "id": "6",
+        "name": "Whispers of the Forest",
         "artist": "xxxxx",
-        "cover": "./imgs/ouro.png",
-        "song": "/musicas/FightingGold.mp3",
-        "genre": "J-Rock"
+        "cover": "./imgs/tartaruga.png",
+        "song": "/musicas/Forest.mp3",
+        "genre": "Ambient"
       },
       {
-        "id": "2",
-        "name": "Pillar Men Theme",
+        "id": "7",
+        "name": "Reflection by the Lake",
         "artist": "xxxxx",
-        "cover": "./imgs/pillar.png",
-        "song": "/musicas/Pillar.mp3",
-        "genre": "Electronic"
+        "cover": "./imgs/pinguim.png",
+        "song": "/musicas/Lake.mp3",
+        "genre": "Acoustic"
       }
     ]
-  },
+  }, 
   {
     "name": "Trilhas Sonoras Épicas",
     "songs": [
@@ -51,23 +51,23 @@
     ]
   },
   {
-    "name": "Sons da Natureza",
+    "name": "JoJo's Bizarre Adventure",
     "songs": [
       {
-        "id": "6",
-        "name": "Whispers of the Forest",
+        "id": "1",
+        "name": "Fighting Gold",
         "artist": "xxxxx",
-        "cover": "./imgs/tartaruga.png",
-        "song": "/musicas/Forest.mp3",
-        "genre": "Ambient"
+        "cover": "./imgs/ouro.png",
+        "song": "/musicas/FightingGold.mp3",
+        "genre": "J-Rock"
       },
       {
-        "id": "7",
-        "name": "Reflection by the Lake",
+        "id": "2",
+        "name": "Pillar Men Theme",
         "artist": "xxxxx",
-        "cover": "./imgs/pinguim.png",
-        "song": "/musicas/Lake.mp3",
-        "genre": "Acoustic"
+        "cover": "./imgs/pillar.png",
+        "song": "/musicas/Pillar.mp3",
+        "genre": "Electronic"
       }
     ]
   },
